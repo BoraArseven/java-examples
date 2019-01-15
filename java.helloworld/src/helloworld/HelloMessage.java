@@ -1,12 +1,12 @@
 package helloworld;
 
 /**
- * Provides methods for hello messages
+ * Provides methods for hello messages.
  */
 public class HelloMessage {
 
 	/**
-	 * @return the main "Hello Worl" message.
+	 * @return the main "Hello World" message.
 	 */
 	public String getMessage() {
 		return "Hello World!";
