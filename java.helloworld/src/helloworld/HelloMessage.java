@@ -5,6 +5,9 @@ package helloworld;
  */
 public class HelloMessage {
 
+	/**
+	 * @return the main "Hello Worl" message.
+	 */
 	public String getMessage() {
 		return "Hello World!";
 	}
